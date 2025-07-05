@@ -9,9 +9,9 @@ define('SITE_PHONE', '+6283831177060');
 define('SITE_WHATSAPP', 'https://wa.me/6283831177060');
 
 // Assets paths
-define('ASSETS_PATH', 'asset/');
-define('CSS_PATH', 'css/');
-define('JS_PATH', 'js/');
+define('ASSETS_PATH', '/asset/');
+define('CSS_PATH', '/css/');
+define('JS_PATH', '/js/');
 
 // Google Sheets Integration
 define('GOOGLE_SCRIPT_URL', 'https://script.google.com/macros/s/AKfycbywkHwcc076_oGkkoeSpX35o25HCCSAxiTk3YNuOyaO2NbIpwyWlD5vJRchu_bmqL7IIw/exec');
